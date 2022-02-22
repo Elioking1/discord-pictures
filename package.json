@@ -1,0 +1,31 @@
+{
+  "name": "discord-images",
+  "version": "1.0.0",
+  "description": "A powerful npm module package that generate images and gifs as you wish.",
+  "main": "index.js",
+  "author": "Elioking1",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "images",
+    "generator",
+    "discord",
+    "gifs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elioking1/discord-images.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Elioking1/discord-images/issues"
+  },
+  "homepage": "https://github.com/Elioking1/discord-images#readme",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  }
+}

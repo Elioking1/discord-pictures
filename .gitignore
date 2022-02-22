@@ -1,0 +1,5 @@
+test.js
+node_modules
+package-lock.json
+src/storage/anime.js
+src/storage/games.js
