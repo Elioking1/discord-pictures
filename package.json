@@ -1,5 +1,5 @@
 {
-  "name": "discord-images",
+  "name": "discord-pictures",
   "version": "1.0.0",
   "description": "A powerful npm module package that generate images and gifs as you wish.",
   "main": "index.js",
