@@ -53,8 +53,8 @@ animals.lizard() // Another Example
 ```
 <table>
   <tr>
-     <td align="center"><a href="https://en.wikipedia.org/wiki/Bird"><img src="https://pictures.unsplash.com/photo-1551085254-e96b210db58a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YmlyZHxlbnwwfHwwfHw%3D&w=1000&q=80" width="100px;" alt=""/><br /><sub><b>🦉 Bird 🦉</b></sub></a><br /></td>
-    <td align="center"><a href="https://en.wikipedia.org/wiki/Cat"><img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/pictures/best-girl-cat-names-1606245046.jpg?crop=0.668xw:1.00xh;0.126xw,0&resize=640:*" width="100px;" alt=""/><br /><sub><b>😺 Cat 😺</b></sub></a><br /></td>
+     <td align="center"><a href="https://en.wikipedia.org/wiki/Bird"><img src="https://see.news/wp-content/uploads/2020/12/UK_wildbirds-01-robin.jpg" width="100px;" alt=""/><br /><sub><b>🦉 Bird 🦉</b></sub></a><br /></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Cat"><img src="https://cdn.vox-cdn.com/thumbor/DVRO3mkhSRelbk8CnN_1zu3uMnc=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22438212/Screen_Shot_2021_04_12_at_8.15.22_AM.png" width="100px;" alt=""/><br /><sub><b>😺 Cat 😺</b></sub></a><br /></td>
     <td align="center"><a href="https://en.wikipedia.org/wiki/Dog"><img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg" width="100px;" alt=""/><br /><sub><b>🐶 Dog 🐶</b></sub></a><br /></td>
     <td align="center"><a href="https://en.wikipedia.org/wiki/Lizard"><img src="https://www.eekwi.org/sites/default/files/styles/original/public/2019-12/lizard.jpg" width="100px;" alt=""/><br /><sub><b>🦎 Lizard 🦎</b></sub></a><br /></td>
   </tr>
