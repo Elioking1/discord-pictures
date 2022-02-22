@@ -1,23 +1,23 @@
-# 🌃 Discord Images 🌃
+# 🌃 Discord Pictures 🌃
 
 <div align="center">
   <br/>
   <p>
-    <img src="https://i.imgur.com/UN4H7iv.jpg" width="546" alt="Discord Images Logo" />
+    <img src="https://live.staticflickr.com/65535/51898248210_dee144e609_z.jpg" width="640" height="480" alt="">
   </p>
   <br/>
   <p>
-    <a href="https://www.npmjs.com/package/discord-images"><img src="https://badgen.net/npm/v/discord-images"/></a>
-    <a href="https://www.npmjs.com/package/discord-images"><img src="https://badgen.net/npm/dt/discord-images"/></a>
-    <a href="https://www.npmjs.com/package/discord-images"><img src="https://badgen.net/packagephobia/install/discord-images"></a>
-    <a href="https://github.com/Elioking1/discord-images"><img src="https://badgen.net/github/watchers/Elioking1/discord-images"></a>
+    <a href="https://www.npmjs.com/package/discord-pictures"><img src="https://badgen.net/npm/v/discord-pictures"/></a>
+    <a href="https://www.npmjs.com/package/discord-pictures"><img src="https://badgen.net/npm/dt/discord-pictures"/></a>
+    <a href="https://www.npmjs.com/package/discord-pictures"><img src="https://badgen.net/packagephobia/install/discord-pictures"></a>
+    <a href="https://github.com/Elioking1/discord-pictures"><img src="https://badgen.net/github/watchers/Elioking1/discord-pictures"></a>
   </p>
-      <a href="https://npmjs.org/package/discord-images"><img src="https://nodei.co/npm/discord-images.png?downloads=true&downloadRank=true&stars=true"></a>
+      <a href="https://npmjs.org/package/discord-pictures"><img src="https://nodei.co/npm/discord-pictures.png?downloads=true&downloadRank=true&stars=true"></a>
 </div>
 
 **🔥 We are back 🔥**
 
-Discord Images is a powerful [Node.js](https://nodejs.org) module that allows you to generate images in a very simple way:
+Discord Pictures is a powerful [Node.js](https://nodejs.org) module that allows you to generate images in a very simple way:
 
 * 🌃 Differents images categories (anime, animals, games, nsfw)
 * 🗽 All the images and gifs have been verified twice by a human
@@ -28,7 +28,7 @@ Discord Images is a powerful [Node.js](https://nodejs.org) module that allows yo
 To start using our npm package, let's install it:
 
 ```js
-npm install discord-images
+npm install discord-pictures
 ```
 
 ## ⚙️ Configuration
@@ -36,7 +36,7 @@ npm install discord-images
 Now let's go to the configuration:
 
 ```js
-const Images = require("discord-images")
+const Images = require("discord-pictures")
 ```
 
 ## 🐶 Animals
@@ -53,8 +53,8 @@ animals.lizard() // Another Example
 ```
 <table>
   <tr>
-     <td align="center"><a href="https://en.wikipedia.org/wiki/Bird"><img src="https://images.unsplash.com/photo-1551085254-e96b210db58a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YmlyZHxlbnwwfHwwfHw%3D&w=1000&q=80" width="100px;" alt=""/><br /><sub><b>🦉 Bird 🦉</b></sub></a><br /></td>
-    <td align="center"><a href="https://en.wikipedia.org/wiki/Cat"><img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-girl-cat-names-1606245046.jpg?crop=0.668xw:1.00xh;0.126xw,0&resize=640:*" width="100px;" alt=""/><br /><sub><b>😺 Cat 😺</b></sub></a><br /></td>
+     <td align="center"><a href="https://en.wikipedia.org/wiki/Bird"><img src="https://pictures.unsplash.com/photo-1551085254-e96b210db58a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YmlyZHxlbnwwfHwwfHw%3D&w=1000&q=80" width="100px;" alt=""/><br /><sub><b>🦉 Bird 🦉</b></sub></a><br /></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Cat"><img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/pictures/best-girl-cat-names-1606245046.jpg?crop=0.668xw:1.00xh;0.126xw,0&resize=640:*" width="100px;" alt=""/><br /><sub><b>😺 Cat 😺</b></sub></a><br /></td>
     <td align="center"><a href="https://en.wikipedia.org/wiki/Dog"><img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg" width="100px;" alt=""/><br /><sub><b>🐶 Dog 🐶</b></sub></a><br /></td>
     <td align="center"><a href="https://en.wikipedia.org/wiki/Lizard"><img src="https://www.eekwi.org/sites/default/files/styles/original/public/2019-12/lizard.jpg" width="100px;" alt=""/><br /><sub><b>🦎 Lizard 🦎</b></sub></a><br /></td>
   </tr>
@@ -176,5 +176,10 @@ nsfw.solo() // Another Example
 | thigh            | The top part of your legs, very hot, isn't it? 😝
 | uniform          | Military, Konbini, Work, Nurse Uniforms, etc... Sexy 😏
 
+### 💖 Credits
+
+* 💖 Thanks [akaneko](https://www.npmjs.com/package/akaneko) for the idea and the API
+* 💖 Thanks for the others developers of the APIs included in this project: [nekobot](https://nekobot.xyz/), [nekos life](https://nekos.life/), and [alexflipnote](https://api.alexflipnote.dev/)
+* 💖 Thanks for [Looka](https://looka.com/) for the amazing banner and logo
 
 Copyright (c) 2022 Elioking1
