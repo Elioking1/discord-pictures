@@ -1,5 +1,10 @@
+# This is a test file, it isn't important to show
 test.js
+
+# Of course we are avoiding to show the node_modules and package-lock file 
 node_modules
 package-lock.json
+
+# These are file where all the images are stored, to avoid copy pasting my 12 hours searching, I will hide them
 src/storage/anime.js
 src/storage/games.js
