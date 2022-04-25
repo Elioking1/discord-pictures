@@ -179,7 +179,7 @@ nsfw.solo() // Another Example
 ### 💖 Credits
 
 * 💖 Thanks [akaneko](https://www.npmjs.com/package/akaneko) for the idea and the API
-* 💖 Thanks for the others developers of the APIs included in this project: [nekobot](https://nekobot.xyz/), [nekos life](https://nekos.life/), and [alexflipnote](https://api.alexflipnote.dev/)
+* 💖 Thanks for the other developers of the APIs included in this project: [nekobot](https://nekobot.xyz/), [nekos life](https://nekos.life/), and [alexflipnote](https://api.alexflipnote.dev/)
 * 💖 Thanks for [Looka](https://looka.com/) for the amazing banner and logo
 
 Copyright (c) 2022 Elioking1
